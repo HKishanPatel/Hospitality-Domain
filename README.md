@@ -7,7 +7,7 @@ The Hospitality Power BI Project aims to provide comprehensive data analysis and
 # Key features of the project:
 Revenue: Calculate the total revenue realized by aggregating the revenue from all bookings. This metric provides an overview of the financial performance of the hospitality establishment.
 
-# Occupancy: 
+#### Occupancy: 
 Measure the occupancy rate by calculating the ratio of successful bookings to the total available rooms (capacity). This metric helps assess the utilization of room inventory and indicates the popularity of the establishment.
 
 # ADR (Average Daily Rate): 
